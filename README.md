@@ -1,7 +1,4 @@
-Ao clonar o repositório para a sua máquina use:
-´´´
-npm i -g npm@10.2.1 react-dom react-scripts cra-template
-´´´
+
 
 # 🚀 Grupo-4D
 Integrantes:
@@ -112,9 +109,7 @@ O propósito do novo sistema é aprimorar as funções para que a interface seja
  4. Após a análise, o engenheiro pode modificar o cronograma da obra, realocar recursos e tomar medidas para que a construção ocorra de forma eficiente e segura, se previnindo de possíveis impactos. 
 
 
-***
-Ao clonar o repositório para a sua máquina use:
-***
-´´´
+***Ao clonar o repositório para a sua máquina use:***
+ˋˋˋ
 npm i -g npm@10.2.1 react-dom react-scripts cra-template
-´´´
+ˋˋˋ
