@@ -4,7 +4,7 @@
 Integrantes:
 **Lorran Porto**, **Hannah Martins**, **Guilherme Vallim** e **João Gois**
 
-Esse é o documentário do seguinte código: [link](https://github.com/Banannahzs/software-grupo4d)
+Esse é o documentário do seguinte código: [link](https://github.com/lorranprt/software-grupo4d)
 
 # PROJETO FRONT-END GRUPO 4D
 
@@ -111,5 +111,5 @@ O propósito do novo sistema é aprimorar as funções para que a interface seja
 
 ***Ao clonar o repositório para a sua máquina use:***
 ˋˋˋ
-npm i -g npm@10.2.1 react-dom react-scripts cra-template
+npm i -g npm@10.2.1 react-dom react-scripts cra-template leaflet
 ˋˋˋ
