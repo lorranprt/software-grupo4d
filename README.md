@@ -111,7 +111,7 @@ O propósito do novo sistema é aprimorar as funções para que a interface seja
 
 ***Ao clonar o repositório para a sua máquina use:***
 ˋˋˋ
-npm i -g npm@10.2.1 react-dom react-scripts cra-template leaflet
+npm i -g react-dom react-scripts cra-template leaflet
 ˋˋˋ
 
 ## Stack:
