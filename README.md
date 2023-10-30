@@ -113,3 +113,8 @@ O propósito do novo sistema é aprimorar as funções para que a interface seja
 ˋˋˋ
 npm i -g npm@10.2.1 react-dom react-scripts cra-template leaflet
 ˋˋˋ
+
+## Componentes do react:
+
+Mapa responsivo:  [leaflet](https://leafletjs.com/reference.html)
+
